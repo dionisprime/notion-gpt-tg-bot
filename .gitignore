@@ -1,4 +1,5 @@
 node_modules
 .vscode
 config/default.json
-first_story.txt
+story/first_story.txt
+package-lock.json
